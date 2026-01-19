@@ -1,0 +1,42 @@
+body{
+    font-family:Arial,'Times New Roman';
+    background:#f2f2f2;
+    display:flex;
+    justify-content: center;
+    margin-top:100px; 
+}
+.todo-container{
+    background:white;
+    width:300px;
+    padding:20px;
+    border-radius:8px;
+    box-shadow: #f2f2f2;
+}
+h1{
+    text-align: center;
+}
+.input-box{
+    display:flex;
+    gap:100px;
+}
+input{
+    flex:1;
+    padding:8px;
+
+}
+button{
+    padding:8px;
+    cursor:pointer;
+}
+li{
+    list-style:none;
+    padding:8px;
+    background:#eee;
+    margin-top:5px;
+    display:flex;
+    justify-content:space-between;
+}
+li.done{
+    text-decoration:line-through;
+    color:gray;
+}
