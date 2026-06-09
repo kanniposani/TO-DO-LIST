@@ -63,22 +63,4 @@ li.done{
     top:10px;
 
 }
-.p1{
-    font-size:1000px;
-}
-.p2{
-    font-size:2px;
-}
-.p3{
-    font-size:3px;
-}
-.p4{
-    font-size:10px;
-}
-.p5{
-    font-size:16px;
-}
-.p1,.p2,.p3,.p4,.p5{
-    color:blue;
-    display:inline-block;
-}
+
