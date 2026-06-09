@@ -54,13 +54,12 @@ li.done{
    
     color:black;
     font-weight: bold;
-    font-size: 10px
+    font-size: 20px;
 }
 .testsize{
     position:relative;
     color:black;
     left:10px;
     top:10px;
-
 }
 
