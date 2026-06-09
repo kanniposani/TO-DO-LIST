@@ -4,6 +4,7 @@ body{
     display:flex;
     justify-content: center;
     margin-top:100px; 
+    color:pink;
 }
 .todo-container{
     background:white;
@@ -14,6 +15,7 @@ body{
 }
 h1{
     text-align: center;
+    color:#ff0000;
 }
 .input-box{
     display:flex;
@@ -22,7 +24,8 @@ h1{
 input{
     flex:1;
     padding:8px;
-
+    border:1px solid #ccc;
+    border_radius:4px;
 }
 button{
     padding:8px;
@@ -39,4 +42,5 @@ li{
 li.done{
     text-decoration:line-through;
     color:gray;
+
 }
