@@ -45,9 +45,9 @@ li.done{
 
 }
 .email{
-    position:absolute;
+    position:fixed;
     top:10px;
     right:10px;
     color:black;
-    font: bold 10px ;
+    font weight: bold;
 }
