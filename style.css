@@ -59,6 +59,7 @@ li.done{
 .testsize{
     position:relative;
     color:black;
+    left:10px;
 }
 .p1{
     font-size:1px;
