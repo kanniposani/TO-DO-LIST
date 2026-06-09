@@ -49,7 +49,6 @@ li.done{
     top:10px;
     right:10px;
     color:seagreen;
-    size;10px;
 }
 .email a{
    
@@ -60,4 +59,19 @@ li.done{
 .testsize{
     position:relative;
     color:black;
+}
+.p1{
+    font-size:1px;
+}
+.p2{
+    font-size:2px;
+}
+.p3{
+    font-size:3px;
+}
+.p4{
+    font-size:4px;
+}
+.p5{
+    font-size:5px;
 }
