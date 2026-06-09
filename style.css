@@ -47,14 +47,12 @@ li.done{
 .email{
     position:fixed;
     top:10px;
-    right:20px;
+    right:10px;
     color:seagreen;
 }
 .email a{
-    position:fixed;
-    top:10px;
-    right:10px;
+   
     color:black;
     font-weight: bold;
-    size: 10px
+    font-size: 10px
 }
